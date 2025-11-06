@@ -4,13 +4,12 @@
   - password - bandit0
   - connect -
 
-'''
-
-    ssh bandit0@bandit.labs.overthewire.org -p 2220
-
-
-     note
-
+```
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
+```
+note
+```
 
 
 . level1
@@ -22,3 +21,11 @@
   - username - bandit2
   - password -
   - connect - ssh bandit2@bandit.labs.overthewire.org -p 2220
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
