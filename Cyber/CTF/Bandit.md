@@ -1,4 +1,4 @@
-> BANDIT LABS
+# BANDIT LABS
 . level0
   - username - ```bandit0```
   - password - bandit0
