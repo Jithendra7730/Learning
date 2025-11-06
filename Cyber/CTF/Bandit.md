@@ -15,7 +15,7 @@ note
 . level1
   - username - bandit1
   - password - 
-  - connect - ssh bandit1@bandit.labs.overthewire.org -p 2220
+  - connect - ```ssh bandit1@bandit.labs.overthewire.org -p 2220```
 
 . level2
   - username - bandit2
