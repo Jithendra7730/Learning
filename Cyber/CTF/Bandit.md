@@ -7,9 +7,7 @@
 ```
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
-```
-note
-```
+
 <img width="1447" height="305" alt="image" src="https://github.com/user-attachments/assets/42ce194d-1aac-460c-bb34-6f5dcc033637" />
 
 
